@@ -1,0 +1,14 @@
+certifi==2019.6.16
+chardet==3.0.4
+idna==2.8
+luma.core==1.12.0
+luma.oled==3.3.0
+Pillow==6.1.0
+pyftdi==0.29.4
+pyserial==3.4
+pyusb==1.0.2
+requests==2.22.0
+RPi.GPIO==0.7.0
+smbus2==0.2.3
+spidev==3.4
+urllib3==1.25.3
